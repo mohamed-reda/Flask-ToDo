@@ -1,5 +1,5 @@
 # flask_ToDo
-It's Todo website build by Flask framwork and stor the data using SQLAlchemy
+It's Todo website build by Flask framework and store the data using SQLAlchemy.
 
 
 
