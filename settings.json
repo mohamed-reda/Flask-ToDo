@@ -1,0 +1,12 @@
+{
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_flask_sqlalchemy",
+        "pylint_flask"
+    ]
+    // # What you'll need is pylint_flask_sqlalchemy
+// "python.linting.pylintArgs": ["--load-plugins", "pylint_flask_sqlalchemy"]
+
+// # You can add pylint_flask but only if it is *AFTER* pylint_flask_sqlalchemy
+// "python.linting.pylintArgs": ["--load-plugins", "pylint_flask_sqlalchemy", "pylint_flask"]
+}
